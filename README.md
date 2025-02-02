@@ -71,7 +71,7 @@ curl http://127.0.0.1:5000/api/faqs/admin/:id/delete
 
 ## 📌 Summary
 
-The Multilingual FAQ System is a scalable and cloud-native solution for managing FAQs across multiple languages. With AWS EC2 (backend), AWS Amplify (frontend), and Redis caching, the system ensures high performance, security, and availability. 🚀
+The Multi-language FAQ Application delivers frequently asked questions (FAQs) in multiple languages with a robust Node.js backend and Redis caching for lightning-fast responses 🚀
 
 🎯 Features:
 
